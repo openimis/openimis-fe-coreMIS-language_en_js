@@ -1,2 +1,14 @@
 {
+  "invoice.mainMenu": "Payments",
+  "socialProtection.benefitPlan.delete.confirm.title": "Delete project {code} {name}",
+  "socialProtection.benefitPlan.delete.confirm.message": "Are you sure you want to delete the project?",
+  "socialProtection.benefitPlan.delete.mutationLabel": "Delete project {name}",
+  "socialProtection.benefitPlan.update.mutationLabel": "Update project {name}",
+  "socialProtection.benefitPlan.create.mutationLabel": "Create project {name}",
+  "socialProtection.benefitPlan.searcherResultsTitle": "{benefitPlansTotalCount} Projects",
+  "socialProtection.benefitPlan.pageTitle": "Project {code} {name}",
+  "socialProtection.menu.socialProtection.benefitPlans": "Projects",
+  "socialProtection.benefitPlan.benefitPlanHelmet": "Project",
+  "socialProtection.benefitPackage.BenefitPlanDetailPanel.title": "Project Details",
+  "socialProtection.benefitPackage.BenefitPlanDetailPanel.tooltip": "Show Project"
 }
