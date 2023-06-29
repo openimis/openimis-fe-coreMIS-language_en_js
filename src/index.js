@@ -4,6 +4,6 @@ const DEFAULT_CONFIG = {
   "translations": [{ key: "en", messages: messages_en }],
 }
 
-export const LanguageCoreMISEnglish = (cfg) => {
+export const CoreMISLanguageModule = (cfg) => {
   return { ...DEFAULT_CONFIG, ...cfg };
 }
