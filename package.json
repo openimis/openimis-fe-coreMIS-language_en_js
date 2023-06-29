@@ -2,8 +2,8 @@
   "name": "@openimis/fe-coremis_language",
   "version": "1.2.0-rc1",
   "license": "AGPL-3.0-only",
-  "description": "openIMIS Frontend Template module",
-  "repository": "openimis/openimis-fe-template_js",
+  "description": "openIMIS CoreMIS Language Pack module",
+  "repository": "openimis/openimis-fe-coremis_language",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "engines": {
