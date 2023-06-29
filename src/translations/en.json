@@ -1,14 +1,14 @@
 {
   "invoice.mainMenu": "Payments",
-  "socialProtection.benefitPlan.delete.confirm.title": "Delete project {code} {name}",
-  "socialProtection.benefitPlan.delete.confirm.message": "Are you sure you want to delete the project?",
-  "socialProtection.benefitPlan.delete.mutationLabel": "Delete project {name}",
-  "socialProtection.benefitPlan.update.mutationLabel": "Update project {name}",
-  "socialProtection.benefitPlan.create.mutationLabel": "Create project {name}",
-  "socialProtection.benefitPlan.searcherResultsTitle": "{benefitPlansTotalCount} Projects",
-  "socialProtection.benefitPlan.pageTitle": "Project {code} {name}",
-  "socialProtection.menu.socialProtection.benefitPlans": "Projects",
-  "socialProtection.benefitPlan.benefitPlanHelmet": "Project",
-  "socialProtection.benefitPackage.BenefitPlanDetailPanel.title": "Project Details",
-  "socialProtection.benefitPackage.BenefitPlanDetailPanel.tooltip": "Show Project"
+  "socialProtection.benefitPlan.delete.confirm.title": "Delete programme {code} {name}",
+  "socialProtection.benefitPlan.delete.confirm.message": "Are you sure you want to delete the programme?",
+  "socialProtection.benefitPlan.delete.mutationLabel": "Delete programme {name}",
+  "socialProtection.benefitPlan.update.mutationLabel": "Update programme {name}",
+  "socialProtection.benefitPlan.create.mutationLabel": "Create programme {name}",
+  "socialProtection.benefitPlan.searcherResultsTitle": "{benefitPlansTotalCount} Programmes",
+  "socialProtection.benefitPlan.pageTitle": "Programme {code} {name}",
+  "socialProtection.menu.socialProtection.benefitPlans": "Programmes",
+  "socialProtection.benefitPlan.benefitPlanHelmet": "Programme",
+  "socialProtection.benefitPackage.BenefitPlanDetailPanel.title": "Programme Details",
+  "socialProtection.benefitPackage.BenefitPlanDetailPanel.tooltip": "Show Programme"
 }
